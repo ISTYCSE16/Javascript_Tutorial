@@ -1,3 +1,4 @@
+// Array Creation, Push, Pop etc
 const fruits = ["Apple", "Banana", "Grape"];
 
 console.log("An Array: " + fruits);
@@ -18,3 +19,4 @@ removedElement = fruits.pop();
 
 console.log("Remove Last Element: " + fruits + `. Removed ${removedElement}`);
 
+console.log("Finding Index of An Element: " + fruits.indexOf("Banana"));
