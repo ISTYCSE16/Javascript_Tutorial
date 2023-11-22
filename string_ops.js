@@ -1,3 +1,4 @@
+// How strings can be manipulated in various ways.
 let exampleString = "This Is A String!";
 
 console.log(exampleString);
