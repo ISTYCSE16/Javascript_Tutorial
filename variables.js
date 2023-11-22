@@ -1,3 +1,5 @@
+// Different types of variables
+
 let hello = "Hello";
 let integer = 10;
 let float = 11.2;
